@@ -1,0 +1,23 @@
+k0nsoleCalc
+
+version: 0.0.2 aplha
+
+toDo:
+-(28.12.2012) - podzielono na pliki
+
+-parser ==> in progress
+	-znajduje najdalsze nawiasy
+	-umie wypisać co jest pomiędzy nimi
+	-(28.12.2012) poprawki w kodzie podzielono jedną funkcję na 2:
+		*szukającą najgłębszych nawiasów
+		*wypisującą co się pomiędzy nimi znajduje
+	-(28.12.2012) funkcja syntaxChecker. sprawdzacz składni
+		*umie sprawdzić czy jest dobra ilość nawiasów.
+
+-kolejność działań
+-proste działania
+-skomplikowane działania
+-rysowanie funkcji
+
+-przepisanie w c#
+-gui
